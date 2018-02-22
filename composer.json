@@ -1,0 +1,14 @@
+{
+    "name": "techmuzz/you-tube-downloader",
+    "description": "Lets you download videos from YouTube",
+    "type": "project",
+    "require": {
+        "norkunas/youtube-dl-php": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Swapna Kheni",
+            "email": "swapnakheni@gmail.com"
+        }
+    ]
+}
